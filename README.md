@@ -1,8 +1,14 @@
 
 
 
-### awesome ![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
+### awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[awesome](https://github.com/sindresorhus/awesome) 
+. [Awesome](https://github.com/sindresorhus/awesome) 
+. [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+. [Awesome JVM](https://github.com/deephacks/awesome-jvm)
+. [Awesome Java](https://github.com/akullpp/awesome-java)
+. [Awesome Shell](https://github.com/alebcay/awesome-shell)
+. [Awesome Python](https://github.com/vinta/awesome-python)
+. [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 
 ### Java
