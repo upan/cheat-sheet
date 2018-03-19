@@ -10,7 +10,8 @@
 - [Awesome Shell](https://github.com/alebcay/awesome-shell)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn)
+- [Awesome-Mysql-CN](https://github.com/jobbole/awesome-mysql-cn)
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 
 ## Java
 
